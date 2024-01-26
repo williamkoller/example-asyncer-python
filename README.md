@@ -20,6 +20,12 @@ python3.10 -m venv .env
 source .env/bin/activate
 ```
 
+## Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Execute code
 
 ```bash
