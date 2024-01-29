@@ -2,6 +2,9 @@
 
 ## This example used [Asyncer](https://asyncer.tiangolo.com/)
 
+- Asyncer is a small library built on top of [AnyIO](https://anyio.readthedocs.io/en/stable/).
+
+
 ## Required Python 3 and `python3.10-venv`
 
 ## Install
