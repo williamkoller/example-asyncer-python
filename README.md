@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-sudo apt install python3.10-venv
+sudo apt install python3 python3.10-venv
 ```
 
 ## Structure environment with venv
